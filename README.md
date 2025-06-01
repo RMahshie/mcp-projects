@@ -14,19 +14,6 @@ This repository contains hands-on projects exploring modern AI agent frameworks 
 - **OpenAI API**: Large language model integration
 - **Python**: Primary development language
 
-## Projects
-
-### 📊 Calculator
-**Location**: `calculator/`
-
-A demonstration of MCP integration where an LLM can perform mathematical calculations through a dedicated calculator server. Shows how to:
-- Build MCP servers with tool discovery
-- Integrate external tools with LLM workflows
-- Handle sequential tool calls and error management
-- Visualize agent decision-making processes
-
-*Technologies: MCP, LangChain, LangGraph, FastMCP*
-
 ### 🔄 Shared Resources
 **Location**: `shared/`
 
