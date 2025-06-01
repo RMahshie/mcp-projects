@@ -45,3 +45,8 @@ The calculator server provides: add, subtract, multiply, divide, square, power, 
 4. Results are combined and returned to the user
 
 The notebook includes visualization showing the tool call flow and error handling for invalid operations.
+
+### Execution Tracing
+
+View the LangSmith trace of a sample execution to see how the LLM orchestrates multiple tool calls:
+[Sample Calculation Trace](https://smith.langchain.com/public/8dd8261a-db0f-48b8-9073-d385abb6296c/r)
