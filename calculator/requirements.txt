@@ -1,0 +1,20 @@
+# Core LangChain and LangGraph
+langchain-core
+langchain-community
+langchain-openai
+langchain-tavily
+langgraph
+typing-extensions
+
+# MCP (Model Context Protocol)
+mcp
+langchain-mcp-adapters
+
+# Environment and utilities
+python-dotenv
+pydantic
+anyio
+
+# Optional: Jupyter for notebooks
+jupyter
+notebook
