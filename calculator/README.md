@@ -26,7 +26,13 @@ The calculator server provides: add, subtract, multiply, divide, square, power, 
    OPENAI_API_KEY=your_openai_api_key_here
    ```
 
-3. **Run the demo**
+3. **Start the calculator server**
+   ```bash
+   python calculator_server.py
+   ```
+   Keep this terminal running - the server needs to be active for the demo to work.
+
+4. **Run the demo**
    - Open `mcp-calculator-demo.ipynb` in VS Code
    - Run cells sequentially (start with the server initialization)
    - Try queries like: "What's the square root of 156.789, plus 47.234, then multiply by 3?"
