@@ -61,17 +61,6 @@ mcp-projects/
 - **Protocol Implementation**: Working with emerging AI standards like MCP
 - **Modern AI Frameworks**: Practical application of LangChain ecosystem
 
-## Academic Context
-
-These projects are part of ongoing coursework and self-directed learning in artificial intelligence and machine learning. They demonstrate both theoretical understanding and practical implementation skills in the rapidly evolving field of AI agents.
-
-## Future Directions
-
-Planning to expand this portfolio with:
-- Multi-agent collaboration systems
-- RAG (Retrieval-Augmented Generation) implementations
-- Custom tool development for specific domains
-- Integration with vector databases and knowledge graphs
 
 ## Contact
 
