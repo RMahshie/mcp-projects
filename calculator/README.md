@@ -16,13 +16,12 @@ A demonstration of integrating Model Context Protocol (MCP) tools with LangChain
 
 - Python 3.8+
 - OpenAI API key
-- Required Python packages (see requirements below)
 
 ### Installation
 
-1. Install required packages:
+1. Install required packages from requirements.txt:
    ```bash
-   pip install langchain langchain-openai langgraph langchain-mcp-adapters python-dotenv pydantic
+   pip install -r requirements.txt
    ```
 
 2. Create a `.env` file with your OpenAI API key:
@@ -131,6 +130,7 @@ await cleanup()  # Call when done to close MCP connections
 calculator/
 ├── mcp-calculator-demo.ipynb    # Main demo notebook
 ├── calculator_server.py         # MCP calculator server
+├── requirements.txt             # Python dependencies
 ├── README.md                    # This file
 └── .env                         # Environment variables (create this)
 ```
